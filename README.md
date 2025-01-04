@@ -1,7 +1,7 @@
-<h1 align="center">Login Form in ASP.NET (Microsoft Visual Studio 2022)<br>
+<h1 align="center">Login Form in ASP.NET (Microsoft Visual Studio 2022)</h1>
 
-<img src="https://github.com/henockjoy/ASP.Net/blob/main/Login%20Form.png" alt="logo" target="/blank">
-</h1>
+<h1 align="center"><img src="https://github.com/henockjoy/ASP.Net/blob/main/Login%20Form.png" alt="logo" target="/blank"></h1>
+
 
 This project is a simple and secure **Login Form** built using **ASP.NET** in **Microsoft Visual Studio 2022**. It demonstrates user authentication by collecting login credentials (username and password) and validating them against a backend data source (e.g., SQL Server). 
 
