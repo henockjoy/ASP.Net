@@ -11,4 +11,3 @@ This project is a simple and secure **Login Form** built using **ASP.NET** in **
 - **ASP.NET Web Forms or MVC** (depending on your project structure)
 - **Microsoft Visual Studio 2022**
 - **SQL Server** for backend database
-- **C#** for server-side logic
