@@ -4,15 +4,11 @@ This project is a simple and secure **Login Form** built using **ASP.NET** in **
 
 #### Features:
 - Responsive user interface for entering login credentials.
-- Secure password handling using hashing and validation techniques.
 - Integration with a database for user authentication.
 - Error handling for invalid or incomplete login attempts.
-- Easy to customize and expand for additional functionalities like password reset or multi-factor authentication.
 
 #### Technologies Used:
 - **ASP.NET Web Forms or MVC** (depending on your project structure)
 - **Microsoft Visual Studio 2022**
 - **SQL Server** for backend database
 - **C#** for server-side logic
-
-This project serves as a foundational template for building secure login systems for web applications.
